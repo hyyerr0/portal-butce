@@ -1,5 +1,5 @@
 {
-    "name": "kouosl/butce",
+    "name": "kouosl/portal-butce",
     "description": "Sample module for KOUOSL PORTAL",
     "type": "yii2-extension",
     "keywords": ["yii2", "yii 2", "butce", "module", "modules"],
