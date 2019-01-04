@@ -2,11 +2,12 @@
 <div class="site-index">
 
     <div class="jumbotron">
-        <h1>Kou Osl Yii2 App</h1>
+        <h1>Bütçe Modülü</h1>
 
-        <p class="lead">Örnek uygulamayı başarılı bir şekilde çalıştırdınız.</p>
+        <p class="lead">Butce Modülüne Hoşgeldiniz</p>
 
-        <p><a class="btn btn-lg btn-success" href="#">Modüller ve konfürgasyon!</a></p>
+        <p><a class="btn btn-lg btn-success" href="http://portal.kouosl/admin/butcee/create">Modül Oluştur</a></p>
+        <p><a class="btn btn-lg btn-danger" href="http://portal.kouosl/admin/butcee/index">Şirketleri Görüntüle</a></p>
     </div>
 
 </div>
